@@ -19,6 +19,7 @@ RG353M
 - Transformar dados de vendas em informações relevantes para o fabricante.
 - Descobrir quais são os produtos mais populares em cada país.
 - Otimizar o processo de transporte e logística até o momento da venda.
+- Fazer uso de uma IA de Chat para análise de vendas.
 
 ## 📁 Criando o Process Data
 
