@@ -28,7 +28,7 @@ RG353M
 
 - 📁 **data**
   - 📁 **processed_data**
-    - 📁 **raw_data**
+  - 📁 **raw_data**
 - 📁 **insights**
 - 📁 **prompts**
 - 📁 **scripts**
